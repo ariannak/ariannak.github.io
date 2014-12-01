@@ -6,7 +6,7 @@
         <!--[if lt IE 9]>
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
-        <title>Box Press</title>
+        <title>eventbook</title>
     </head>
     <!--[if IE 6 ]><body class="ie6 old_ie"><![endif]-->
     <!--[if IE 7 ]><body class="ie7 old_ie"><![endif]-->
@@ -18,18 +18,13 @@
 			<nav>
 				<ul>
 					<li><a href="index.html" class="current">Home</a></li>
-					<li><a href="#">News</a></li>
-					<li><a href="#">Gallery</a></li>
-					<li><a href="#">About</a></li>
-					<li><a href="#">Contact</a></li>
+					<li><a href="#">My Events</a></li>
+					<li><a href="#">Add Events</a></li>
+					<li><a href="#">Profile</a></li>
+					<li><a href="#">Log Out</a></li>
 				</ul>
 			</nav>
 		</header>
-		<div id="adbanner">
-			<div id="ad">
-				<a href="#"><p>Advertise Here</p></a>
-			</div>
-		</div>
 		<div id="secwrapper">
 			<section>
 				<article id="featured">
@@ -51,21 +46,11 @@
 					<p>Etiam tempor felis ac eros dictum quis consectetur dolor tristique. Aliquam scelerisque, odio vel luctus commodo, nisl nisl vehicula metus, ut lobortis eros sem blandit est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut tempor, tortor at vulputate blandit, magna risus posuere turpis.</p>
 					<a href="#" class="readmore">Read more</a>
 				</article>			
-				<article id="photobox">
-					<h1>Photos Box</h1>
-					<img src="images/pbs1.jpg" alt="" /><img src="images/pbs2.jpg" alt="" /><img src="images/pbs3.jpg" alt="" />
-					<img src="images/pbs4.jpg" alt="" /><img src="images/pbs5.jpg" alt="" /><img src="images/pbs6.jpg" alt="" />
-					<img src="images/pbs7.jpg" alt="" />
-				</article>
 				<article>
 					<a href="#"><img src="images/4.jpg" alt=""/></a>
 					<h1>Fermentum Vulputate Ac Sit Amet Metus</h1>
 					<p>Mauris sed lectus dui. Suspendisse enim elit, tempor ac ullamcorper et, eleifend quis sem. Sed euismod sagittis ligula, a imperdiet sapien molestie nec. Curabitur ut eros a justo fermentum vulputate ac sit amet metus. Aenean quis dignissim diam.</p>
 					<a href="#" class="readmore">Read more</a>
-				</article>
-				<article id="sponsors">
-					<h1>Sponsors</h1>
-					<a href="#"><p>Advertise here</p></a><a href="#"><p>Advertise here</p></a><a href="#"><p>Advertise here</p></a><a href="#"><p>Advertise here</p></a>
 				</article>
 				<article>
 					<a href="#"><img src="images/5.jpg" alt=""/></a>
@@ -76,7 +61,7 @@
 			</section>
 		</div>
 		<footer>
-			<p>Copyright &copy 2012 BoxPress by Youssef Nassim. All Rights Reserved.</p>
+			<p>Copyright eventbook by Kojin, Arianna, and Alex. All Rights Reserved.</p>
 		</footer>
 	</body>
 </html>
